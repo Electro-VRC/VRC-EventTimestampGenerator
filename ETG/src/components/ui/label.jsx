@@ -1,1 +1,0 @@
-export const Label = (props) => <div>{props.children}</div>;
